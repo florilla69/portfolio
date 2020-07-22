@@ -106,7 +106,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../dist/img/yes.jpg);
+    background: url(/dist/img/yes.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -292,7 +292,7 @@ main {
   .projects {
     grid-template-columns: repeat(2, 1fr); }
   .bio-image {
-    background: url("/dist/img/jailrick.png");
+    background: url("/dist/img/rick.jpg");
     background-size: 115%;
     width: 290px;
     height: 190px;

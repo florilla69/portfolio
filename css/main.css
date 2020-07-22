@@ -292,7 +292,7 @@ main {
   .projects {
     grid-template-columns: repeat(2, 1fr); }
   .bio-image {
-    background: url("/dist/img/rick.jpg");
+    background: url("../img/rick.jpg");
     background-size: 115%;
     width: 290px;
     height: 190px;

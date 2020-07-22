@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("/dist/img/rick.jpg");
+      background: url("img/rick.jpg");
       border-radius: 50%;
       background-size: 110%;
       background-position: 50% 50%;
@@ -106,7 +106,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../dist/img/yes.jpg);
+    background: url(/dist/img/yes.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -292,7 +292,7 @@ main {
   .projects {
     grid-template-columns: repeat(2, 1fr); }
   .bio-image {
-    background: url("/dist/img/jailrick.png");
+    background: url("img/jailrick.png");
     background-size: 115%;
     width: 290px;
     height: 190px;

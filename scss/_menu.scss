@@ -87,7 +87,7 @@
     .portrait {
       width: 250px;
       height: 250px;
-      background: url("/dist/img/rick.jpg");
+      background: url("../img/rick.jpg");
       border-radius: 50%;
       background-size: 110%;
       background-position: 50% 50%;
@@ -124,7 +124,7 @@
       color: $secondary-color;
       border-bottom: solid 6px rgb(255, 110, 211);
       border-radius: 10px;
-      padding-bottom: 1px;
+      padding-bottom: 0.1px;
     }
   }
 }

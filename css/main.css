@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("/dist/img/rick.jpg");
+      background: url("../img/rick.jpg");
       border-radius: 50%;
       background-size: 110%;
       background-position: 50% 50%;

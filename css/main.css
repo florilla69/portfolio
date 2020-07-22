@@ -296,6 +296,7 @@ main {
     background-size: 115%;
     width: 290px;
     height: 190px;
+    margin: auto;
     background-position: 50% 50%; } }
 
 @media screen and (max-width: 500px) {
